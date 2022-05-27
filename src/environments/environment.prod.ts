@@ -1,13 +1,12 @@
 export const environment = {
   firebase: {
-    projectId: 'proyecto-appmovil-2022a',
-    appId: '1:728856571351:web:5f7d55dbaa9307fbb4ef92',
-    storageBucket: 'proyecto-appmovil-2022a.appspot.com',
+    projectId: 'appmoviles-1',
+    appId: '1:652224415944:web:e8747c3765eb197350fdfd',
+    storageBucket: 'appmoviles-1.appspot.com',
     locationId: 'us-central',
-    apiKey: 'AIzaSyCgrhaeCK9bbhovbnBD8ReWWaZv-O7ck-g',
-    authDomain: 'proyecto-appmovil-2022a.firebaseapp.com',
-    messagingSenderId: '728856571351',
-    measurementId: 'G-XC26H4H3F2',
+    apiKey: 'AIzaSyDd7ph_KivjtWK6KSfRQDQ55t51dOHtrAU',
+    authDomain: 'appmoviles-1.firebaseapp.com',
+    messagingSenderId: '652224415944',
   },
   production: true
 };
